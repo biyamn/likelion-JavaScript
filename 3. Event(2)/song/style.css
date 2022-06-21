@@ -1,0 +1,11 @@
+.blue {
+  width: 0px;
+  height: 5px;
+  background-color: blue;
+}
+.lyrics {
+  width: 250px;
+  height: 300px;
+  overflow-y: scroll;
+  background-color: skyblue;
+}

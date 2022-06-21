@@ -1,0 +1,14 @@
+.nav {
+background-color: aqua;
+
+}
+
+
+.newNav {
+  background-color: pink;
+  display: none;
+}
+
+.show {
+  display: block;
+}
